@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Two Data Series Bar Graph</string>
+    <string name="button">Draw graph</string>
+</resources>
